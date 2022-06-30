@@ -1,0 +1,23 @@
+Lista Sekcji + zakres modyfikacji wyglądu wartosci pól
+
+Informacje podstawowe(4 inputy):
+na górzę jak na interview me może być podpowiadajka dla poszczególnych sekcji
+- imię - walidacja na same litery bez cyfr
+- zdjęcie
+- nazwisko - walidacja na same litery bez cyft
+- numer telefonu - możliwośc tylko wpisywania cyfer. Może jest jakaś nakładka do nr tel
+- email - walidacja na regex mailowy
+
+Zmiana:
+- czcionki - autocompleter chyba/ albo też kilka predefiniowanych
+- pogrubienia - kilka opcji do wyboru w formie radiobuttonów np?
+- koloru - kilka predefiniowanych/ może podanie heksa?/ koło kolorów?
+- wielkości fonta - w formie paska przesywanego może być
+
+Doświadczenie(możliwość dodawania kolejnych pozycji):
+- Nazwa firmy
+- Stanowisko
+- od kiedy do kiedy
+- opis tego co się robiło - może warto tutaj mieć CK editora
+
+Modyfikacja Sekcji

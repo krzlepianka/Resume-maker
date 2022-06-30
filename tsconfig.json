@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "lib": ["es6", "dom"],
+      "noImplicitAny": false,
+      "noImplicitThis": true,
+      "strictNullChecks": true,
+      "jsx": "react-jsx",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "baseUrl": "src"
+    },
+    "include" : ["src"]
+  }
