@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="1024" viewBox="0 0 710 1024">
+		<defs>
+		<style type="text/css">
+			 @import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,700');
+				.font-bld{font-weight:700;}
+				.h1{font-size:45px; font-weight:600;}
+				.h2{font-size:18px; font-weight:500;}
+				.li-disc {fill:#808080;} 
+				.li-white-disc {fill:#fff;} 	 
+				.left-bg{fill:#0E9FC1;}            
+				.section-bg{fill:#007D9E;}  
+			</style>
+		</defs>	
+		<rect x="0" y="0" width="245" height="1024" style="fill:#0E9FC1;" class="svg-sidebar-bg"></rect>
+
+		<text class="revival-name" style="font-size:24px;font-family:'Merriweather';fill:#fff;font-weight:700">
+			<tspan x="18" y="45" id="PreviewUserFirstName">MICHAEL</tspan> 
+			<tspan x="18" y="75" id="PreviewUserLastName">WILLIAMS</tspan>
+		</text>	
+		
+		<svg x="18" y="98" width="9" height="9" viewBox="0 0 512 512">
+			<path fill="#fff" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path>
+		</svg>
+		
+		<svg x="18" y="129" width="11" height="10" viewBox="0 0 512 512">
+			<path fill="#fff" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+		</svg>
+
+		<svg x="18" y="160" width="9" height="9" viewBox="0 0 8 8">
+			<path fill="#fff" d="M5.71 4.754a2.913 2.913 0 0 1-1.877.696c-.69 0-1.318-.249-1.82-.648C.815 5.062.32 5.842.26 7.483h7.247c-.045-1.857-.47-2.548-1.797-2.729z"></path>
+			<path fill="#fff" d="M2.625 4.356c.281.185.609.298.959.338.083.01.163.025.248.025.085 0 .165-.016.247-.025a2.19 2.19 0 0 0 .984-.352c.142-.096.268-.212.384-.338.365-.394.593-.917.593-1.495A2.213 2.213 0 0 0 3.832.3c-1.219 0-2.21.992-2.21 2.21 0 .583.232 1.112.603 1.507.12.128.253.243.4.34z"></path>
+		</svg>
+
+		<text style="font-size:13px;font-family:'Merriweather';fill:#fff;font-weight:bold;">
+			<tspan x="35" y="107">415-123-0012</tspan>
+			<tspan x="35" dy="30">mwilliams@address.com</tspan>
+			<tspan x="35" dy="30">123 Main Street,</tspan>
+			<tspan x="35" dy="25">SanFrancisco, CA 94122</tspan>
+			
+		</text>	
+
+		<rect x="0" y="225" width="245" height="28" class=" section-bg svg-heading-bg"></rect>
+		<text style="font-size:15px; font-weight:bold;font-family:'Merriweather'; fill:#fff;text-transform:uppercase;letter-spacing: 2.8px;" x="15" y="245">SKILLS</text>
+		
+		<circle cx="17" cy="279" r="2" class="li-white-disc"></circle>
+		<circle cx="17" cy="306" r="2" class="li-white-disc"></circle>
+		<circle cx="17" cy="330" r="2" class="li-white-disc"></circle>
+		<circle cx="17" cy="355" r="2" class="li-white-disc"></circle>
+		<circle cx="17" cy="380" r="2" class="li-white-disc"></circle>
+		<circle cx="17" cy="405" r="2" class="li-white-disc"></circle>
+		<circle cx="17" cy="430" r="2" class="li-white-disc"></circle>
+		<circle cx="17" cy="455" r="2" class="li-white-disc"></circle>
+
+		<text style="font-size:13px;font-family:'Merriweather'; font-weight:400;fill:#fff;">
+			<tspan x="25" y="285">Executive team leadership</tspan>		
+			<tspan x="25" dy="25">Sales Management</tspan>		
+			<tspan x="25" dy="25">Inventory report generation</tspan>
+			<tspan x="25" dy="25">Staff training and development</tspan>
+			<tspan x="25" dy="25">Client/Vendor relation</tspan>
+			<tspan x="25" dy="25">Customer relations</tspan>
+			<tspan x="25" dy="25">Market analysis</tspan>
+			<tspan x="25" dy="25">Process Improvements</tspan>		
+		</text>
+		
+		<text style="font-size:15px; font-weight:bold;font-family:'Merriweather'; fill:#007D9E;text-transform:uppercase;letter-spacing: 2.4px;" x="260" y="29" class="svg-heading-color">professional Summary</text>	
+		<text style="font-size:13px;fill:#808080;font-family:'Merriweather';font-weight:300;">
+				<tspan x="260" y="55">Successful sales professional with 10+ years experience in </tspan>
+				<tspan x="260" dy="25">large-scale food and retail environments. Implement cost</tspan>
+				<tspan x="260" dy="25">control measures to ensure operations remain within </tspan>
+				<tspan x="260" dy="25">company targets. Maximize bottom-line performance</tspan>
+				<tspan x="260" dy="25">through P &amp; L, merchanding, staff management, loss control  </tspan>
+				<tspan x="260" dy="25">and inventory management initiatives.</tspan>
+			</text>
+
+		<text style="font-size:15px; font-weight:bold;font-family:'Merriweather'; fill:#007D9E;text-transform:uppercase;letter-spacing: 2.8px;" x="260" y="230" class="svg-heading-color">Experience</text>
+		<text style="font-size:13px;font-family:'Merriweather'; font-weight:300;fill:#808080;">
+			<tspan x="260" y="260" style="text-transform:uppercase;fill:#0E9FC1;" class="svg-subsection-title">District Manager</tspan>		
+			<tspan x="260" dy="25">Verizon Wireless</tspan>
+			<tspan x="260" dy="25">September 2009 - Current</tspan>
+		</text>
+		
+		<circle cx="270" cy="335" r="2" class="li-disc"></circle>
+		<circle cx="270" cy="360" r="2" class="li-disc"></circle>
+		<circle cx="270" cy="410" r="2" class="li-disc"></circle>
+		<circle cx="270" cy="460" r="2" class="li-disc"></circle>
+		
+		<text style="font-size:13px;font-family:'Merriweather'; font-weight:300;fill:#808080;">
+			<tspan x="285" y="340">Directed recruitment/training/staff development initiatives.</tspan>		
+			<tspan x="285" dy="25">Successfully increased employee retention with a positive </tspan>		
+			<tspan x="285" dy="25">work environment.</tspan>
+			<tspan x="285" dy="25">Administered daily operations to ensure policies were </tspan>
+			<tspan x="285" dy="25">adhered to by sales staff.</tspan>
+			<tspan x="285" dy="25">Cultivated strong business relationships with customers to </tspan>		
+			<tspan x="285" dy="25">drive business.</tspan>
+		</text>
+
+		<text style="font-size:13px;font-family:'Merriweather'; font-weight:300;fill:#808080;">
+			<tspan x="260" y="520" style="text-transform:uppercase;fill:#0E9FC1;" class="svg-subsection-title">General Manager</tspan>		
+			<tspan x="260" dy="25">Woodranch Restaurant</tspan>
+			<tspan x="260" dy="25">August 2015 - October 2017</tspan>
+		</text>
+
+		<circle cx="270" cy="590" r="2" class="li-disc"></circle>
+		<circle cx="270" cy="615" r="2" class="li-disc"></circle>
+		<circle cx="270" cy="665" r="2" class="li-disc"></circle>
+		<circle cx="270" cy="715" r="2" class="li-disc"></circle>
+
+		<text style="font-size:13px;font-family:'Merriweather'; font-weight:300;fill:#808080;">
+			<tspan x="285" y="595">Successfully managed a team of 18 direct reports.</tspan>		
+			<tspan x="285" dy="25">Developed the renovation strategy and oversaw the </tspan>		
+			<tspan x="285" dy="25">$110,000 store remodel.</tspan>
+			<tspan x="285" dy="25">Directed departmental alignment on strategies to create </tspan>
+			<tspan x="285" dy="25">strong sales.</tspan>
+			<tspan x="285" dy="25">Cultivated strong franchise owner relationships to achieve </tspan>	
+			<tspan x="285" dy="25">high standards.</tspan>	
+		</text>	
+
+		<text style="font-size:15px; font-weight:bold;font-family:'Merriweather'; fill:#007D9E;text-transform:uppercase;letter-spacing: 2.8px;" x="260" y="800" class="svg-heading-color">Education</text>
+		<text style="font-size:13px;font-family:'Merriweather'; font-weight:300;fill:#808080;">
+			<tspan x="260" y="830" style="text-transform:uppercase;fill:#0E9FC1;" class="svg-subsection-title">Master of Arts: Operations Management</tspan>
+			<tspan x="260" dy="25">San Francisco State University </tspan>		
+			<tspan x="260" dy="25">San Francisco, CA </tspan>	
+		</text>	
+	</svg>
